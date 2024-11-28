@@ -5,6 +5,7 @@ ul {
 a {
     text-decoration: none;
     color: white;
+	background: #1e2f7f;
 }
 
 * {
@@ -30,9 +31,9 @@ text {
 }
 
 b {
-	font-size: 22.5px;
-	text-align: left;
-	margin: auto;
+	font-size: 23.5px;
+	text-align: right;
+	text-decoration: none;
 }
 
 body {
@@ -44,7 +45,7 @@ body {
 }
 
 main {
-    width: 1295px;
+    width: 1315px;
     margin: 0 auto;
 }
 
